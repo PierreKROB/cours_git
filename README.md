@@ -151,3 +151,7 @@ Le merge s'effectue de la façon suivante :
 Les pull requests (PR) sont une fonctionnalité clé dans les plateformes de gestion de version comme GitHub ou GitLab, bien qu'elles ne fassent pas partie intégrante de Git lui-même. Une PR est une demande pour intégrer les changements d'une branche dans une autre, typiquement de la branche de développement dans la branche principale.
 
 Il est possible de lancer une pull request via l'interface graphique de github. 
+
+
+
+### EXEMPLE  ! 
