@@ -152,6 +152,4 @@ Les pull requests (PR) sont une fonctionnalité clé dans les plateformes de ges
 
 Il est possible de lancer une pull request via l'interface graphique de github. 
 
-
-
-### EXEMPLE  ! 
+Bonjour à tous !
